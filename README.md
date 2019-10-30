@@ -1,0 +1,3 @@
+# Media-Analysis-
+
+This project uses contemporary Natural Language Processing (NLP) methods to analyse news media coverage of the Banking Royal Commission (BRC) in Australia. The Banking Royal Commission involved a formal inquiry into misconduct in the Banking, Superannuation and Financial Services industry. It generated significant news coverage and public debate, resulting in legal changes with significant implications for businesses, consumers, investors and the wider public. Between January 2016 and March 2019, an average of 11 news articles a day were published on the topic of the Banking Royal Commission. 
